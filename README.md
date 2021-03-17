@@ -1,1 +1,1 @@
-# week-2
+# dynamic-web-project
